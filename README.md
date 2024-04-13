@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TahaTheSmartProGuy
-- 👀 I’m interested in Nothing
+- 👀 I’m interested in Coding
 - 🌱 I’m Currently Learning C C++ C# Python
-- 💞️ I’m Looking To Collaborate On What??
+- 💞️ I’m Looking To Collaborate On Malware
 - 📫 How To Reach Me aysah.55@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i Have a YouTube Channel!
